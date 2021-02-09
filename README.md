@@ -1,2 +1,2 @@
 # Express-local-library
-locallibrary tutorial on MDN docs
+Projeto simples para aprender como user Express e Server Side Rendering.
